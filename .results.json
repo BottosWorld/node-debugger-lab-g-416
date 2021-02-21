@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-02-21T04:37:17.939Z",
+    "end": "2021-02-21T04:37:17.944Z",
+    "duration": 5
+  },
+  "tests": [
+    {
+      "title": "must return the desired output",
+      "fullTitle": "account.js must return the desired output",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "must return the desired output",
+      "fullTitle": "account.js must return the desired output",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
